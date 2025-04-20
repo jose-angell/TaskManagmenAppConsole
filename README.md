@@ -5,9 +5,9 @@ Aplicación de consola para el  manejo de tareas
 Este proyecto tiene como objetivo el permitir practicar el uso de estructuras de datos para el manejo de tareas
 
 ### Estructura Genera:
-Tarea.cs - Clase que representa una tarea
-TaskManager.cs - Maneja la cola de tareas y la pila de historias
-Program.cs - UI en consola / entrada del usuario
+- Tarea.cs: Clase que representa una tarea
+- TaskManager.cs: Maneja la cola de tareas y la pila de historias
+- Program.cs: UI en consola / entrada del usuario
 
 ### caracteristicas:
 - pilas stack para manejer el historial de acciones realizadas
