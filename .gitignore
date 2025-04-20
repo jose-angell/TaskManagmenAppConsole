@@ -1,0 +1,22 @@
+# Archivos generados por compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuración local de VS Code (opcional)
+.vscode/
+
+# Archivos temporales y de sistema
+*.log
+*.tmp
+*.cache
+*.DS_Store
+Thumbs.db
+
+# Paquetes NuGet descargados (opcional)
+packages/
